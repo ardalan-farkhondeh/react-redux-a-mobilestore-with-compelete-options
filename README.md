@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+react-redux-a-store-with-complete-options(react-hook-async action-specific store configuration-monitor reducer-logger)extentions:redux-logger,redux-thunk,redux-devtools-extension,axios,react
+
+
 ## Available Scripts
 
 In the project directory, you can run:
